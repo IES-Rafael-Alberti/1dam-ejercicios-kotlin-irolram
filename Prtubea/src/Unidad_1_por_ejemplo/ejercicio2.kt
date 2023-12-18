@@ -6,7 +6,7 @@ class Ejercicio2 {
 }
 
 fun main(){
-    print("tus muertos")
+    print("a")
     println("Please enter the Name: ")
 
     var name = readLine()!!
